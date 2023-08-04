@@ -185,4 +185,4 @@ if __name__ == '__main__':
     print(f"min = {root.min()}")
     print(f"30 exists in a tree = {root.exists(30)}")
     print(f"31 exists in a tree = {root.exists(31)}")
-P
+    
